@@ -1,0 +1,7 @@
+String s= "      this is example    "
+s.stripLeading();
+
+//o/p:  this is example     
+
+
+removes only starting spaces
