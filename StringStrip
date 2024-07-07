@@ -1,0 +1,4 @@
+String s="   this is example     "
+s.strip();
+
+//output: this is example
